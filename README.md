@@ -5,7 +5,7 @@ Hello everyone! My name is Alexanderhawl, I am a Chinese creator. I was born in 
 
 ## work experience
 I did the penetration testing for 3 years , after that I became a loan adivisor in PingAn puhui. And now I do trade stocks by myself , but not a professor, meanwhile I write comments of stock in Tiger security, one of Chinese security brokers. On that, I have 15k fans. 
-![alt followers](https://github.com/alexanderhawl/alexanderhawl.github.io/blob/main/tiger%20followers.jpg)
+![alt followers](https://raw.githubusercontent.com/alexanderhawl/alexanderhawl.github.io/main/tiger%20followers.jpg)
 
 ## experience in Blockchain
 I knew blockchain in 2018 . At first,I  did cryptocurrency trade in Huobi. Then I learned the knowledge of the blockchain. So I'm familiar with blockchain.
